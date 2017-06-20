@@ -1,0 +1,10 @@
+{
+  "name": "jmcmanus/pagedown-extra",
+  "description" : "This is a collection of Pagedown plugins to enable support for Markdown Extra syntax. Open demo/demo.html to try it yourself. To run the tests, just open spec/SpecRunner.html in your browser. Or, to run a browser-less test from the command line as travis-ci would, run bundle install followed by bundle exec rake. You'll need Ruby and the rake gem if you use the second method.",
+  "keywords": ["markdown", "markdown extra"],
+  "require": {
+  },
+  "require-dev" : {
+  }
+}
+
